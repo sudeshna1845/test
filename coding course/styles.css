@@ -1,0 +1,45 @@
+body {
+  background-color:black;
+}
+
+.header {
+  background-color: rgb(20, 5, 61);
+  width: auto;
+  height: 100px;
+}
+.middle {
+  background-image:url("sky.jpg");
+  height: 520;
+}
+
+
+h1 {
+    color:white;
+    text-align: center;
+    vertical-align: middle;
+
+}
+h2 {
+  color:lightgrey;
+  text-align: center;
+}
+
+h3{
+  color:white
+}
+
+p{
+  color:lightgrey;
+}
+
+ul{
+  color: grey;
+}
+
+ol{
+  color: grey;
+}
+img{
+  margin-left: 0px;
+  width: 0px;height: 0px;
+}
